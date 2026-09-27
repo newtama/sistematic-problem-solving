@@ -8,17 +8,14 @@ yang terbukti berhasil dari Toyota, NASA, Kepner-Tregoe, McKinsey, PMI, Deming, 
 
 ## Unduh buku
 
-| Format | Berkas | Keterangan |
+| Format | Unduhan | Keterangan |
 |---|---|---|
-| PDF (edisi cetak) | [dist/TUNTAS-7D.pdf](dist/TUNTAS-7D.pdf) | 201 halaman, B5 (176 × 250 mm), diagram vektor penuh |
-| Word | [dist/TUNTAS-7D.docx](dist/TUNTAS-7D.docx) | ± 207 halaman, 20 diagram tertanam, QR toolkit, daftar isi otomatis |
+| PDF (edisi cetak) | [TUNTAS-7D.pdf](https://github.com/newtama/sistematic-problem-solving/releases/download/v1.0/TUNTAS-7D.pdf) | 201 halaman, B5 (176 × 250 mm), diagram vektor penuh |
+| Word | [TUNTAS-7D.docx](https://github.com/newtama/sistematic-problem-solving/releases/download/v1.0/TUNTAS-7D.docx) | ± 207 halaman, 20 diagram tertanam, QR toolkit, daftar isi otomatis |
 
-Di halaman repo, klik berkas lalu tombol **Download**. Untuk unduhan langsung:
+Semua rilis: [Releases](https://github.com/newtama/sistematic-problem-solving/releases).
 
-```
-https://raw.githubusercontent.com/newtama/sistematic-problem-solving/main/dist/TUNTAS-7D.pdf
-https://raw.githubusercontent.com/newtama/sistematic-problem-solving/main/dist/TUNTAS-7D.docx
-```
+Salinan berkas juga ada di folder [`dist/`](dist/) pada repositori.
 
 ## Isi
 
